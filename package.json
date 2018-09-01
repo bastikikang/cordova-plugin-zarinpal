@@ -1,0 +1,42 @@
+{
+	"version": "1.0.0",
+	"name": "cordova-plugin-zarinpal",
+	"cordova_name": "ZarinPal InApp Purchase",
+	"description": "ZarinPal is the first pioneer payer in Iran.",
+	"license": "MIT",
+	"keywords": [
+		"iap",
+		"inapp",
+		"inapp purchase",
+		"purchase",
+		"zarinpal",
+		"buy",
+		"sell",
+		"ecosystem:cordova",
+		"cordova-android"
+	],
+	"platforms": [
+		"android"
+	],
+	"engines": [
+		{
+			"name": "cordova",
+			"version": ">=3.0.0"
+		}
+	],
+	"cordova": {
+		"id": "cordova-plugin-zarinpal",
+		"platforms": [
+			"android"
+		]
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/vinoosir/cordova-plugin-zarinpal.git"
+	},
+	"author": "Josh Kasten & Brad Hesse",
+	"bugs": {
+		"url": "https://github.com/vinoosir/cordova-plugin-zarinpal/issues"
+	},
+	"homepage": "https://github.com/vinoosir/cordova-plugin-zarinpal#readme"
+}
