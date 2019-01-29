@@ -40,5 +40,6 @@
 		<source-file src="src/android/com/zarinpal/ewallets/purchase/ZarinPal.java" target-dir="src/com/zarinpal/ewallets/purchase/" />
 		<source-file src="src/android/miladesign/cordova/ZarinPalPlugin.java" target-dir="src/miladesign/cordova/" />
 		<source-file src="libs/Volley.jar" target-dir="libs" />
+		<lib-file src="libs/Volley.jar"/>
 	</platform>
 </plugin>
